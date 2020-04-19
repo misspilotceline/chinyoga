@@ -1,0 +1,114 @@
+a{
+  color: #85a392;
+  margin:10px 30px;
+  text-decoration: none;}
+  a:hover{
+    color: white;
+  }
+body{
+margin:0;
+text-align: center;
+font-family: 'Economica', sans-serif;
+font-size: 1.5em;
+}
+h1{
+font-family: 'Russo One', sans-serif;
+font-size: 4.5rem;
+line-height: 1.5;
+margin:70px auto 0 auto;
+}
+h2{
+font-family: 'Josefin Sans', sans-serif;
+font-size:2rem;
+font-weight: normal;
+}
+h3 {
+  font-family: 'Josefin Sans', sans-serif;
+}
+hr{
+  border-color: grey;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 6px;
+  width: 5%;
+  margin: 100px auto;
+
+}
+p{
+  color: #40514E;
+  line-height: 2;
+}
+.braimage{
+  width: 25%;
+}
+.button{
+  border: 1;
+  border-color: black;
+  border-width: thick;
+    line-height: 2.5;
+    padding: 5px 25px;
+    font-size: 1.5rem;
+    text-align: center;
+    color: #fff;
+    text-shadow: 1px 1px 1px #000;
+    border-radius: 10px;
+    background-color: #c6f1d6;
+}
+.Copyright{
+  color: #EAF6F6;
+  font-size: 1.2rem;
+  padding: 20px 0;
+}
+.leggingsimage{
+  width: 25%;
+}
+.yogaimage{
+  width:auto;
+}
+.theTopContainer{
+  background-color: #ff8080;
+  position: relative;
+  padding-top: 100px;
+  height: 700px;
+  width: 100%;
+}
+.theMiddleContainer{
+background-color: #ffba92;
+padding: 100px 0 50px;
+}
+.theBottomContainer{
+background-color: #e0f5b9;
+padding: 150px 0 100px;
+}
+.theEndContainer{
+  background-color: #c6f1d6;
+  padding: 50px 0 20px;
+}
+.bottomcloud{
+  position: absolute;
+  bottom:400px;
+  left:300px;
+}
+.mountain{
+  width:60%;
+  position: absolute;
+  bottom:0;
+  right: 280px;
+}
+.product-row{
+margin: 250px auto 250px auto;
+width: 50%;
+
+}
+
+.topcloud{
+  position:absolute;
+  height:60px;
+  width:200px;
+  right:350px;
+  top:50px;
+
+}
+.topsimage{
+  width: 25%;
+}
